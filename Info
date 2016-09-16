@@ -1,1 +1,14 @@
 Starting a server from scratch.
+
+First create a folder mkdir server-login and cd server-login
+Step 1:
+ Creating a package.json file. This can be done by 
+ $npm init
+Step 2:
+ Installing basic necessary packages 
+ $npm install --save express mongoose morgan body-parser
+ 
+3)Add an index.js file
+4)Add a .gitignore and write node_modules inside to make sure we are not commiting node_modules in git
+5)
+ 
